@@ -1,0 +1,4 @@
+cookbook 'package', path: "../package"
+source 'https://supermarket.chef.io'
+
+metadata
